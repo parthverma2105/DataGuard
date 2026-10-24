@@ -4,8 +4,6 @@
 
 DataGuard checks how clean and reliable a dataset is before you analyse it. Upload a CSV or Excel file and get a full quality audit, an explainable 0-100 score, outlier and anomaly detection, optional AI insights, and a downloadable PDF report.
 
-> Final-year B.Tech minor project.
-
 ## Features
 
 - Upload CSV, XLSX or XLS files with clear error messages
